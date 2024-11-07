@@ -1,6 +1,6 @@
  
 
-float temp;
+float txt;
 
 const int trigPin=10;
 const int echoPin=11;
